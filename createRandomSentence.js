@@ -38,7 +38,7 @@ const verbs = [
 ];
 
 const timeWords = {
-    present: ["today", "every day", "usually", "often", "now, sometimes, always, never"],
+    present: ["today", "every day", "usually", "often", "now", "sometimes", "always", "never"],
     past: ["yesterday", "last night", "two days ago", "in 2020", "when I was a child", "a week ago", "last year", "once", "in the past", "recently"],
     future: ["tomorrow", "next week", "soon", "in the morning", "later", "in the future", "next year", "someday", "eventually"]
 };
