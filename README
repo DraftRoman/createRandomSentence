@@ -1,0 +1,15 @@
+# 🧠 Random Sentence Generator
+
+A lightweight JavaScript web app that dynamically generates grammatically correct English sentences in **past**, **present**, and **future** tenses.  
+It uses customizable arrays of **nouns**, **verbs**, **adjectives**, **adverbs**, and **places** to create endless sentence combinations.
+
+---
+
+## 🚀 Features
+
+- ✅ Generates random sentences at the click of a button
+- ✅ Supports **three main tenses**: Past, Present, and Future
+- ✅ Verb conjugation logic (base, past, and participle forms)
+- ✅ Time expressions automatically match the chosen tense
+- ✅ Clean, modular, self-contained JavaScript (no global variable conflicts)
+- ✅ Simple, extensible design — easy to add more words or sentence patterns
